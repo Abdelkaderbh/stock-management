@@ -45,7 +45,7 @@ The Stock Management Application provides an organized and intuitive interface f
 ```bash
 git clone https://github.com/Abdelkaderbh/stock-management.git
 
-cd stock-management-app/admin
+cd stock-management/admin
 
 npm install 
 
@@ -57,7 +57,7 @@ npm start
 ```bash
 git clone https://github.com/Abdelkaderbh/stock-management.git
 
-cd stock-management-app/server
+cd stock-management/server
 
 npm install 
 
