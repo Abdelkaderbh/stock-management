@@ -1,0 +1,27 @@
+.password-container {
+    margin: 20px auto;
+    max-width: 600px;
+    padding: 40px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    background-color: #fff;
+    text-align: center; 
+  }
+  
+  .password-container h1 {
+    margin-bottom: 24px; 
+  }
+  
+  .edit-password-form .ant-row {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .edit-password-form .ant-row .ant-input {
+    margin-bottom: 16px; 
+  }
+  
+  .edit-password-form .ant-btn {
+    width: 100%; 
+  }
+  

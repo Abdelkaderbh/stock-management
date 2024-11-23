@@ -1,0 +1,30 @@
+.add-product-container {
+    margin: 20px auto;
+    max-width: 1200px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    background-color: #fff;
+  }
+  
+  .add-product-form {
+    padding: 20px;
+  }
+  
+  
+  /* All products table */
+  .product-name {
+    display: flex;
+    align-items: center;
+  }
+  
+  .product-image {
+    width: 50px;
+    margin-right: 10px;
+  }
+  
+  .product-text {
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: 600;
+  }
